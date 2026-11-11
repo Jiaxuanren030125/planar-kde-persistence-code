@@ -5,5 +5,6 @@ type: software
 authors:
   - family-names: Ren
     given-names: Jiaxuan
-version: "2026-11-11-prepared"
+version: "2026-11-11-v3"
 abstract: "Scientific source distribution and saved numerical results for the first manuscript."
+repository-code: "https://github.com/Jiaxuanren030125/planar-kde-persistence-code"

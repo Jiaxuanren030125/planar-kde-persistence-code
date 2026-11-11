@@ -334,10 +334,10 @@
     },
     {
       "byte_identical": false,
-      "distributed_sha256": "d265136bf8c2ff3424b65ff7e08ec27385b71ae3a8aaaff1b0a73f54210cf114",
+      "distributed_sha256": "a5e9f9ff53233be48d349fb2b5a5b257d3e07a7c11f425dafa5cbcc15f40ce24",
       "file": "tools/plot_portrait.py",
       "source_sha256": "0358516b2db6ae8445cbf94c397aeb75ff9894bb8d04c1a8efe9a2c9b79e072c",
-      "transformation": "New presentation artifact; original saved rows unchanged.; distribution annotations/administrative metadata normalized; numerical content retained"
+      "transformation": "Presentation-only revision: consistent line styles and shared paired-panel scales; original saved numerical values unchanged."
     },
     {
       "byte_identical": false,
@@ -354,27 +354,29 @@
       "transformation": "New presentation artifact; original saved rows unchanged.; distribution annotations/administrative metadata normalized; numerical content retained"
     },
     {
-      "byte_identical": true,
-      "distributed_sha256": "6a177db9cafcc950b6d08f807ec96c86af375eb616353ace3d369b940151f8cf",
+      "byte_identical": false,
+      "distributed_sha256": "ffbb5d0ff999b4b47af64b5bede8df30628057738a2229fa17b363074aa73bfd",
       "file": "figures/display1_threshold_rate_and_cdf_portrait.pdf",
       "source_sha256": "6a177db9cafcc950b6d08f807ec96c86af375eb616353ace3d369b940151f8cf",
-      "transformation": "New presentation artifact; original saved rows unchanged."
+      "transformation": "Presentation-only revision: consistent line styles and shared paired-panel scales; original saved numerical values unchanged."
     },
     {
-      "byte_identical": true,
-      "distributed_sha256": "be72a28f07f3a82532fff4724e5c50fafa6aae7d7b495c19b9d6acd5088edfad",
+      "byte_identical": false,
+      "distributed_sha256": "87c73145b06f5e175f4f2cd53cdf9a4ab7d661beb8f5cfd1b93656ff9d867394",
       "file": "figures/display2_same_sample_errors_portrait.pdf",
       "source_sha256": "be72a28f07f3a82532fff4724e5c50fafa6aae7d7b495c19b9d6acd5088edfad",
-      "transformation": "New presentation artifact; original saved rows unchanged."
+      "transformation": "Presentation-only revision: consistent line styles and shared paired-panel scales; original saved numerical values unchanged."
     }
   ],
   "omitted": [
-    "Mac-specific historical launch wrapper with private runtime paths; public standalone launcher provided separately",
+    "Mac-specific historical launch wrapper with private runtime paths; portable launcher not included",
     "Private task handoffs, approvals, central state, manuscripts, credentials",
     "Compiled binaries and third-party libraries",
     "12000 angular NPZ files, 3548017335 bytes; referenced hashes retained in original JSON records"
   ],
+  "presentation_revision": "portrait-shared-axes-v6; distribution-v3",
   "project": "Jiaxuan Ren",
+  "repository_url": "https://github.com/Jiaxuanren030125/planar-kde-persistence-code",
   "scope": "Distribution copies of scientific source and saved results; no new simulation",
   "status": "PRIVATE_READY_FOR_AUTHOR_RELEASE",
   "tested_saved_analysis_environment": {

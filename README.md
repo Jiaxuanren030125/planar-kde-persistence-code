@@ -49,7 +49,7 @@ python tools/extract_saved_records.py --experiment gaussian_difference --output 
 python tools/export_plot_data.py --run-dir work/gaussian-records --code-dir experiments/gaussian_difference/frozen_code --out-dir work/plot-data
 ```
 
-The extraction command also restores both original analysis JSON files and both original PNGs required by the plot export binding. The final two plotting scripts are presentation tools. The frozen scientific calculation and original saved tables remain separately preserved.
+The extraction command also restores both original analysis JSON files and both original PNGs required by the plot export binding. The final two plotting scripts are presentation tools. The current portrait displays use thicker black limit curves and distinguish empirical CDFs by line style. Each paired-comparison row uses square axes with a shared range for both predictors. All plotted values, zero observations, and sample counts are preserved. The frozen scientific calculation and original saved tables remain separately preserved.
 
 ## Frozen design, seeds and scientific source
 

@@ -14,7 +14,7 @@ The Gaussian-difference archive contains all 160 original JSON blocks (3,200 row
 
 ## Reproduction tools
 
-The portable analysis modules retain the computational bodies of the original saved-data functions, with relative imports and minimal surrounding constants. The file/identity/hash wrappers operate only on saved JSON records. CSV extracts retain all rows. The portrait plotting tools use saved observations and analytic curves; changing figure layout does not change data or methods.
+The portable analysis modules retain the computational bodies of the original saved-data functions, with relative imports and minimal surrounding constants. The file/identity/hash wrappers operate only on saved JSON records. CSV extracts retain all rows. The portrait plotting tools use saved observations and analytic curves; changing figure layout does not change data or methods. The current portrait displays use thicker black limit curves and distinguish empirical CDFs by line style. Each paired-comparison row uses square axes with a shared range for both predictors. All plotted values, zero observations, and sample counts are preserved.
 
 The historical full-run launchers retain environment-specific requirements. The current convenience layer supports saved-result reproduction; it does not claim a portable new simulation command or exact floating-point replay across systems. See README for the original environment requirements.
 
