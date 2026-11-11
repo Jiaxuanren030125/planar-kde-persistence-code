@@ -1,0 +1,420 @@
+{
+  "annotation_policy": "Headers and administrative metadata normalized; original snapshots retained separately. Historical hashes and current distributed hashes are distinct.",
+  "files": [
+    {
+      "byte_identical": true,
+      "distributed_sha256": "76f9a175c738040d30ce1fa9ce85f8436c582b2a9ef618213a8a990a97b0d68e",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/__init__.py",
+      "source_sha256": "76f9a175c738040d30ce1fa9ce85f8436c582b2a9ef618213a8a990a97b0d68e",
+      "transformation": null
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "d6bd5edbf135550950c78e30490022e51d25e80b2148e78f2eb39d2577f1ad14",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/model.py",
+      "source_sha256": "f463d42c7dc5934780ac83e3232d14eae297cea26873cb2a681dca3bb140c925",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "35977c73aa18d4e9d9c07080310be8b0fbbc2151257fd0c3f03b67cc76af5858",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/spectral_kde.py",
+      "source_sha256": "47e4970c77c898d8a648b7a764e8227fc3cb931dd394567aa6d04b1da6fd317d",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "9c8ea7b75e6dd35d8ac36bd7f1ff12f0a1e345d37df4bc94d1657b8474bd93d4",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/ph_core.c",
+      "source_sha256": "d70ef75e655ffe93b9e029b01de0a5f44528c2eeb14c6f4865ed25cf486656e3",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "0e4bdfc2388704b1aebda15543373a948992153fa3a5c4c08c84059884be041e",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/ph_grid.py",
+      "source_sha256": "6417dec0a2bceac1fe6dd68ed0aedadd05342c11887a65628cdd34c1f5a64b55",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "2e8b0608deb2e8f4640e07c60ad0df4834272dd434f2b0ac02966f087185566e",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/critical.py",
+      "source_sha256": "9b2fd721d33aacb0cb01e98eee13e56cd10a16c7f7099f89d9cb0e80a0d680eb",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "6edf3ee237b7499c2b7bf160bd6c80146875dbda6514c6bcec30f039ab0b815d",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/quartic.py",
+      "source_sha256": "e905bbd74ae6773b9bc1ec2825ca36eaf35f6b0649cd38f07a5e916b5d549d53",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "509785e06d670c9e73ca29751e452d560206e4ed1ffc7d841ffead557449d93b",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/pipeline.py",
+      "source_sha256": "da13621ebccc472aaa94445762e0a725a5f4edf5693ec93ad0f2b3569482b062",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "ed4e86b00952c5a42d3c349b41a93af3b801506e60ae1cf1d3f081781a35d059",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/sampler.py",
+      "source_sha256": "c2db8911df1d1b625814a62d03f31569c5a1a752558c00b00815be9686be0d3f",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "6d2e93df17f08dc39cd5269c9966044305a444846522757454f39fbd4d49de17",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/fixtures.py",
+      "source_sha256": "ff8de212c91cb42b33c0bd416b5025c47fd9428cb8910c7754182b9b405a7329",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "dcc3140504c161dbc4cfc3556a2b8293f0283ed6633b456313b3b60b8624922f",
+      "file": "experiments/gaussian_difference/frozen_code/src/tda_numerics/release.py",
+      "source_sha256": "97af4ada2279542aaab66627907833fc6b29f55d6a7741f2c26c8afab58d9b1c",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "6ae7401eb806fb3aa5bb4a67d44280a15695418c42883565a7912a28e48662bf",
+      "file": "experiments/gaussian_difference/frozen_code/scripts/make_freeze.py",
+      "source_sha256": "9fd613cafa55da19622d7e45abddf86a181109a6c6cacb07895650d0093ee255",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "e9d4aeb7cb6bb06bee26ae2476391d6cf4e1bf0878dd2fa066dcf8908c9b1900",
+      "file": "experiments/gaussian_difference/frozen_code/scripts/run_candidate.py",
+      "source_sha256": "a9f626cb1526256a23de4ea332b976e09a27effb298e34b099fcfc0b64374150",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "0046d260ebbe7a5e9dba8d02df98ca872ba6d7411f1be3f5bf1daef54e3859ce",
+      "file": "experiments/gaussian_difference/frozen_code/scripts/verify_run.py",
+      "source_sha256": "e00aeb9df6c840a979e06cfad2df79bfc4531f7bf8dbafba579619be8d643044",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "03f47ca0a865bb0ae966debcb51791c098abe601b69360cceeb06e848a67157f",
+      "file": "experiments/gaussian_difference/frozen_code/scripts/analyze_candidate.py",
+      "source_sha256": "62dd27657476dd16f62d3a5be505aa29de01731f8c5c23451f56962633e36ac7",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "26c715e0cea76f335f77a6b757b59e64a4b1e68ff783f23f4efa049ee8cb018e",
+      "file": "experiments/gaussian_difference/frozen_code/candidate/DESIGN_CANDIDATE.json",
+      "source_sha256": "455bff3b19d5cd4656ef520d4143e21522d529286db67f395a77f409ace248b6",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "12f0ee96f33c7036c71f1f8ab48cccdeb0c87c4f4524ab7e9046fa2af8d3eeac",
+      "file": "experiments/gaussian_difference/frozen_code/candidate/PREREG_CANDIDATE_CN.md",
+      "source_sha256": "24eceaa89c8ab4e97159e03558157e67c1b18ce554cfa20eb789b4c81cea10eb",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "42673d95b87274d50c041e556bf8699aafbd48304380392899b2ec9a79a7a9d1",
+      "file": "experiments/gaussian_difference/frozen_code/candidate/ANALYSIS_PLAN_CN.md",
+      "source_sha256": "e786bc7271775a5de9a7be2957fb9dd5e73e5a7558f0967c0e5aff8cb154e3fc",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "823ac3b01d15b412956de5d18b1c81c41b291fdcb94f7f9201ffb2460b2f5742",
+      "file": "experiments/gaussian_difference/frozen_code/candidate/NUMERIC_POLICY_CN.md",
+      "source_sha256": "078f85c76861c5d11490d8bdcaaf3042034de30e971f16038d5b56d68112abc1",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "65d4047b4bb1e64a8094afc8e5fc36613fddcbcd5828f60c374082b4152c0d65",
+      "file": "experiments/gaussian_difference/frozen_code/candidate/FIGURE_CAPTIONS_CN.md",
+      "source_sha256": "8c76b625421df59328e659b61aeda65f452c552b7a29e24633f167846754471e",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "c954547e2f924d6e6da5718d4d2d5ec270c354c42a9e92a6148ef7be248d8ce5",
+      "file": "experiments/gaussian_difference/frozen_code/ENV_LOCK.json",
+      "source_sha256": "e4b60c5b2937ab38ce63f826c5af2d9c1ee907ceac08e2a5ab152bc53611f0dc",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "12a76a978d45d0d5a6215258b38acb97a8f3fd2031a715e0ca531b23a73c6abf",
+      "file": "experiments/gaussian_difference/frozen_code/requirements.lock",
+      "source_sha256": "b4983d797080a9070e6e1d7ffbe74795414ffd8000c080770f52d66e6552f6ee",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "e61c9aa21f6d97765b94f8c46f4cbc6fb0d35fafd66eaef0b932911758c14608",
+      "file": "experiments/gaussian_difference/frozen_metadata.json",
+      "source_sha256": "4abf050ebb7326b6ab69234287e7d39a7430a0cc6abab4e9fce6f3054a5c9981",
+      "transformation": "Removed only commands; added explicit transformation record. Original freeze is not claimed byte-identical.; distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "3fca29af4a53bb5552a72970cae52002cf14bc2fa58956e1d58039e3afc044cc",
+      "file": "experiments/gaussian_difference/saved_analysis/analysis_tables.json",
+      "source_sha256": "3fca29af4a53bb5552a72970cae52002cf14bc2fa58956e1d58039e3afc044cc",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "7a0ff3c59ed30162943e93fb209360b7e64da9e85e57c47d6e74aa6e0eeea8d8",
+      "file": "experiments/gaussian_difference/saved_analysis/analysis_summary.json",
+      "source_sha256": "7a0ff3c59ed30162943e93fb209360b7e64da9e85e57c47d6e74aa6e0eeea8d8",
+      "transformation": null
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "ae9906809763fd63100fa650e33b0ebd8f9c48aa18d30b341b466b1d69510943",
+      "file": "experiments/angular_design/frozen_code/arithmetic_task80.py",
+      "source_sha256": "9ee7801487e677d121956641f5b0b66339609172b336ef80ae6df7dc9e41444d",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "c8af686a1c1932ec5805240185121cf732588516c4a6f3f0708e0f1f58dc0000",
+      "file": "experiments/angular_design/frozen_code/science82.py",
+      "source_sha256": "1b5d7b43272e8674100572bf0026c54efd6fb72bdcfa9c8c26dd6a948bb82072",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "4cdb72b2ecb95fc771af45f705ff085b231e2c84f3ad3ab80d8729d8946c3111",
+      "file": "experiments/angular_design/frozen_code/tda_numerics/__init__.py",
+      "source_sha256": "4cdb72b2ecb95fc771af45f705ff085b231e2c84f3ad3ab80d8729d8946c3111",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "a1d60e30a7cbe0435980ca2b7a5388d9b0a5fdc3bfb0f156765866410befb31c",
+      "file": "experiments/angular_design/frozen_code/tda_numerics/model.py",
+      "source_sha256": "a1d60e30a7cbe0435980ca2b7a5388d9b0a5fdc3bfb0f156765866410befb31c",
+      "transformation": null
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "9c8ea7b75e6dd35d8ac36bd7f1ff12f0a1e345d37df4bc94d1657b8474bd93d4",
+      "file": "experiments/angular_design/frozen_code/tda_numerics/ph_core.c",
+      "source_sha256": "d70ef75e655ffe93b9e029b01de0a5f44528c2eeb14c6f4865ed25cf486656e3",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "0a5f68c38c26a0199fe8c4b3df03cf048fe2c73d723de8a0d6c7bfc7a8e33b95",
+      "file": "experiments/angular_design/frozen_code/tda_numerics/ph_grid.py",
+      "source_sha256": "f9eb9cb0dbd6593112d03a7b62eb27534a6c4fc7d25aeee91d85b62a1b042282",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "61aeaa197114017551fcb5828f0ba440ffcf3068ede384e02a9c0dabf32d60f8",
+      "file": "experiments/angular_design/frozen_code/tda_numerics/spectral_kde.py",
+      "source_sha256": "f483498b7c4f9c468496b91ff9b57c5873f3c0240fa02acaff975464aa07632e",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "1e02324a717ea9d02bb20db5827836110489d9ab86569d95127717ceb35d0a35",
+      "file": "experiments/angular_design/frozen_code/records82.py",
+      "source_sha256": "d022c0f4dff9c45384f37e18920128cef6c47e4c7d37c5bf1c6b4c44f1778528",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "8f52e629c23e2e64f322b28ea873d8daefd14b3b857ddcf97ca9a50d6aaa37fe",
+      "file": "experiments/angular_design/frozen_code/analysis_mac92.py",
+      "source_sha256": "af4ed1f607b601d457af3f41cdd8f3e89e9629191b2a90137f41c3286483c1a3",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "4e6b2a64ea93f6e48b7c7390cffe97a2a47670f64fa7998d32b45b06769d89c3",
+      "file": "experiments/angular_design/frozen_reference/provenance/DESIGN_CANDIDATE.json",
+      "source_sha256": "4e6b2a64ea93f6e48b7c7390cffe97a2a47670f64fa7998d32b45b06769d89c3",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "a2ae6e045df6b4a3519d647246fe8e67cadabf031cc3d1d11bcd1f6e45ad7392",
+      "file": "experiments/angular_design/frozen_reference/FORMAL_PLAN_CANDIDATE.json",
+      "source_sha256": "a2ae6e045df6b4a3519d647246fe8e67cadabf031cc3d1d11bcd1f6e45ad7392",
+      "transformation": null
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "d8737fc7f36e9bb2f780a648e26d8a72836cf7b26eada3e6bd36b73647f61cda",
+      "file": "experiments/angular_design/frozen_metadata.json",
+      "source_sha256": "a35c199935ec47da9ed0551792106445a2c605a174ad2fc717675fd2dba3321e",
+      "transformation": "distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "cfce41a6911461ebf6dd4e34e58119d4c9b2c10649af9e40c7f21ba29b879224",
+      "file": "experiments/angular_design/saved_analysis/threshold_counts.csv",
+      "source_sha256": "cfce41a6911461ebf6dd4e34e58119d4c9b2c10649af9e40c7f21ba29b879224",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "6bcb89ebf66128db3f93a4d9ad5b812fdd6224196ecaea6126907b18b76b96e4",
+      "file": "experiments/angular_design/saved_analysis/saved_values.csv",
+      "source_sha256": "6bcb89ebf66128db3f93a4d9ad5b812fdd6224196ecaea6126907b18b76b96e4",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "a5726af62ba3f687d49a01735e45a18f30b587cb86bfade52089bd1fc0339b4c",
+      "file": "experiments/angular_design/saved_analysis/curves.csv",
+      "source_sha256": "a5726af62ba3f687d49a01735e45a18f30b587cb86bfade52089bd1fc0339b4c",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "57b8d5b1a81530504f4ca748337b8d8312e767c9fa3511ff1284f74265d08db8",
+      "file": "experiments/angular_design/saved_analysis/SUMMARY.json",
+      "source_sha256": "57b8d5b1a81530504f4ca748337b8d8312e767c9fa3511ff1284f74265d08db8",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "a1da1a58265423934d2ebb88d42155e2b9525331e6d9b2aac3f5e6a1b4f54146",
+      "file": "figures/angular_design_comparison.pdf",
+      "source_sha256": "a1da1a58265423934d2ebb88d42155e2b9525331e6d9b2aac3f5e6a1b4f54146",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "9dc2e1d5510c930aa686eba95ed2592c50f74248b29148610e2436c5f47aa6ac",
+      "file": "data/gaussian_difference_records.zip",
+      "members": 160,
+      "transformation": "ZIP container added; no original record bytes changed",
+      "uncompressed_record_bytes": 23015967
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "63aeeb49c2d6b5df9fdfff0894aeaf9234299b2b097fb3e3aa38f86e7a3bc717",
+      "file": "data/angular_design_records.zip",
+      "members": 16800,
+      "transformation": "Administrative run identifier normalized; dependent commit/member hashes and sizes regenerated; all numeric values and seeds unchanged.",
+      "uncompressed_record_bytes": 40559721
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "d763ef19b0a631cbffd618510e73e10840d8d75e900c4460abcbb7eff39ae14a",
+      "file": "experiments/angular_design/environment_versions.json",
+      "source_sha256": "f58c9de85083044d7705830f71e70ff60fb8f77213abf67ecbb22b6d81842a35",
+      "transformation": "Selected non-private version/thread metadata only; not the original environment file.; distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "7a981ebb815e39e7b8ad7ace8190d49cbfa240ab407615a7b8f47768a5d83ed2",
+      "file": "experiments/gaussian_difference/saved_analysis/display1_threshold_rate_and_cdf.png",
+      "source_sha256": "7a981ebb815e39e7b8ad7ace8190d49cbfa240ab407615a7b8f47768a5d83ed2",
+      "transformation": null
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "64f2f98d7eaa4ce8c24620afa4bcf060fb414b9836dde41bbd6d2033c56adf62",
+      "file": "experiments/gaussian_difference/saved_analysis/display2_same_sample_errors.png",
+      "source_sha256": "64f2f98d7eaa4ce8c24620afa4bcf060fb414b9836dde41bbd6d2033c56adf62",
+      "transformation": null
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "d265136bf8c2ff3424b65ff7e08ec27385b71ae3a8aaaff1b0a73f54210cf114",
+      "file": "tools/plot_portrait.py",
+      "source_sha256": "0358516b2db6ae8445cbf94c397aeb75ff9894bb8d04c1a8efe9a2c9b79e072c",
+      "transformation": "New presentation artifact; original saved rows unchanged.; distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "806100e695f7fddc1adabf929902685da6a5667c63a51c40ce47d1447239b07b",
+      "file": "tools/export_plot_data.py",
+      "source_sha256": "77411c0ef4edd97fd206627171bc2d4a5c1f7f4ea2a3e55a583cdfc6361100e6",
+      "transformation": "New presentation artifact; original saved rows unchanged.; distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": false,
+      "distributed_sha256": "81b73afa7334ae62f263f70cf66653fef2cfd610b0082f3b35a7d8dba1c4e8e1",
+      "file": "data/plot_data.json",
+      "source_sha256": "374b1a830b72899c85a6e46c0f5b27da9ee27789ced68b745cdfc8c994a5ed25",
+      "transformation": "New presentation artifact; original saved rows unchanged.; distribution annotations/administrative metadata normalized; numerical content retained"
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "6a177db9cafcc950b6d08f807ec96c86af375eb616353ace3d369b940151f8cf",
+      "file": "figures/display1_threshold_rate_and_cdf_portrait.pdf",
+      "source_sha256": "6a177db9cafcc950b6d08f807ec96c86af375eb616353ace3d369b940151f8cf",
+      "transformation": "New presentation artifact; original saved rows unchanged."
+    },
+    {
+      "byte_identical": true,
+      "distributed_sha256": "be72a28f07f3a82532fff4724e5c50fafa6aae7d7b495c19b9d6acd5088edfad",
+      "file": "figures/display2_same_sample_errors_portrait.pdf",
+      "source_sha256": "be72a28f07f3a82532fff4724e5c50fafa6aae7d7b495c19b9d6acd5088edfad",
+      "transformation": "New presentation artifact; original saved rows unchanged."
+    }
+  ],
+  "omitted": [
+    "Mac-specific historical launch wrapper with private runtime paths; public standalone launcher provided separately",
+    "Private task handoffs, approvals, central state, manuscripts, credentials",
+    "Compiled binaries and third-party libraries",
+    "12000 angular NPZ files, 3548017335 bytes; referenced hashes retained in original JSON records"
+  ],
+  "project": "Jiaxuan Ren",
+  "scope": "Distribution copies of scientific source and saved results; no new simulation",
+  "status": "PRIVATE_READY_FOR_AUTHOR_RELEASE",
+  "tested_saved_analysis_environment": {
+    "matplotlib": "3.11.2",
+    "no_new_simulation": true,
+    "numpy": "2.3.5",
+    "python": "3.12.14",
+    "scipy": "1.18.1"
+  },
+  "transformations": [
+    {
+      "changed": "Imports and source-path loading only; original modules also supplied.",
+      "experiment": "gaussian",
+      "function_text_unchanged": true,
+      "functions": [
+        "cp_interval",
+        "_finite",
+        "primary_of",
+        "budget_of",
+        "comparator_of",
+        "paired",
+        "_quantile_bounds",
+        "_count",
+        "analyze_cell",
+        "analyze",
+        "figures"
+      ],
+      "kind": "exact_function_extraction"
+    },
+    {
+      "changed": "Imports and source-path loading only; original modules also supplied.",
+      "experiment": "angular",
+      "function_text_unchanged": true,
+      "functions": [
+        "counts",
+        "csv_write",
+        "cp95_for_count",
+        "make_plot"
+      ],
+      "kind": "exact_function_extraction"
+    }
+  ]
+}

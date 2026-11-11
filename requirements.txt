@@ -1,0 +1,6 @@
+# Versions used for saved-result recomputation and plotting in this archive.
+# Python 3.12.14; no new scientific run was performed.
+# Historical simulation environments remain separately recorded in experiments/.
+numpy==2.3.5
+scipy==1.18.1
+matplotlib==3.11.2

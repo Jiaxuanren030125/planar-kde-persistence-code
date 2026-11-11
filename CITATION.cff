@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when referring to this reproducibility archive."
+title: "Reproducibility archive: Limit laws for shallow loops in planar Gaussian kernel density estimates"
+type: software
+authors:
+  - family-names: Ren
+    given-names: Jiaxuan
+version: "2026-11-11-prepared"
+abstract: "Scientific source distribution and saved numerical results for the first manuscript."
